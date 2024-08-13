@@ -1,0 +1,23 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      '@netlify/plugin-nextjs':
+        specifier: ^5.6.0
+        version: 5.6.0
+
+packages:
+
+  '@netlify/plugin-nextjs@5.6.0':
+    resolution: {integrity: sha512-PBrsd/GJZ9MN8BdyIoleTkY22lAUMfcRxrbb8wgxGzXtTW0RU0GW2mc99ISB6zOwWMZ11rSjeN0GS6znnukvww==}
+    engines: {node: '>=18.0.0'}
+
+snapshots:
+
+  '@netlify/plugin-nextjs@5.6.0': {}
